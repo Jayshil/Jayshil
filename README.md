@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working in various aspects of exoplanetary science...
+- 📫 How to reach me: jayshilpatel147@gmail.com
+- :python: I mainly work with Python
+- 😄 Pronouns: He/him/his
+
 <!--
 **Jayshil/Jayshil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
