@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in various aspects of exoplanetary science...
+- 🔭 I’m currently working on various aspects of exoplanetary science...
 - 📫 How to reach me: jayshilpatel147@gmail.com
 - 💬 I mainly work with Python
 - 😄 Pronouns: He/him/his
