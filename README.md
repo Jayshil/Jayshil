@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on various aspects of exoplanetary science...
+- 🔭 I am a PhD Student at Stockholm University in Sweden.
+- 🌱 I am currently working on various aspects of Exoplanetary Science.
 - 📫 How to reach me: jayshilpatel147@gmail.com
 - 💬 I mainly work with Python
 - 😄 Pronouns: He/him/his
