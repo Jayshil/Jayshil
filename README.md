@@ -2,7 +2,7 @@
 
 - 🔭 I am a PhD Student at Stockholm University in Sweden.
 - 🌱 I am currently working on various aspects of Exoplanetary Science.
-- 📫 How to reach me: jayshilpatel147@gmail.com
+- 📫 How to reach me: jayshil.patel@astro.su.se
 - 💬 I mainly work with Python
 - 😄 Pronouns: He/him/his
 
