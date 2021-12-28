@@ -4,7 +4,7 @@
 - 🌱 I am currently working on various aspects of Exoplanetary Science.
 - 📫 How to reach me: jayshil.patel@astro.su.se
 - 💬 I mainly work with Python
-- 😄 Pronouns: He/him/his
+- :man: Pronouns: He/him/his
 
 <!--
 **Jayshil/Jayshil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
