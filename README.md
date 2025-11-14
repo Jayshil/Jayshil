@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I am a PhD Student at Stockholm University in Sweden.
+- 🔭 I am a Post-doctoral researcher at the Technical University of Denmark - DTU Space.
 - 🌱 I am currently working on various aspects of Exoplanetary Science.
-- 📫 How to reach me: jayshil.patel@astro.su.se
+- 📫 How to reach me: jaspa@dtu.dk
 - 💬 I mainly work with Python
 - :man: Pronouns: He/him/his
 
